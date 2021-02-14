@@ -1,0 +1,62 @@
+table, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+    font-weight: bolder;
+    width: 100%;
+    
+  }
+
+  .pan-card{
+      background-color: lavenderblush;
+  }
+  .noborder{
+      padding: 0%;
+      
+      
+     
+  }
+
+  .red{
+      color: red;
+  }
+
+  .last{
+      padding-left: 15px;
+  }
+
+  .name{
+      padding-bottom: 35px;
+  }
+
+.heading{
+      background-color: brown;
+      color: white;
+      text-align: center;
+  }
+
+  .heading a {
+      color: yellow;
+  }
+
+  .light{
+      font-weight: normal;
+      
+  }
+  .lname{
+      position: relative;
+      top: 20px;
+      right: 153px;
+  }
+  .fname, .mname{
+    position: relative;
+    top: 20px;
+    right: 133px;
+}
+
+ 
+
+  .name{
+      padding-bottom: 25px;
+  }
+
